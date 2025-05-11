@@ -15,10 +15,6 @@
 - Eigenvalues and eigenvectors
 - Application to ML: PCA, image processing
 
-### Why choose this?  
-✅ Simple, beginner-friendly  
-✅ ML-context explained directly  
-✅ Hands-on with Python
 
 ---
 
@@ -33,12 +29,7 @@
 - Eigen concepts in-depth
 - More mathematical proofs and derivations
 
-### Why choose this?  
-✅ Strong theoretical foundation  
-✅ Step-by-step derivations  
-✅ Ideal for engineering or math-focused students
+
 
 ---
 
-## 🧠 **Study Tip: Combine Both If You Can**
-Start with the **CodeBasics playlist** to get practical intuition, then watch selective videos from **Neso Academy** for deeper theoretical clarity — especially on eigenvalues and matrix operations.
